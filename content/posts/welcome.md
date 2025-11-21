@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My New Blog"
+title: "Welcome to My New Blog1"
 date: "2025-11-21"
 description: "This is the first post on my new Next.js blog deployed on GitHub Pages."
 ---
